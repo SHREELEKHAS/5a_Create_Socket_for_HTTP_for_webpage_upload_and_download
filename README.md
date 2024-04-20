@@ -1,4 +1,5 @@
-![Screenshot 2024-04-20 131813](https://github.com/SHREELEKHAS/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/149768910/1d5bf1fa-a8bc-4c1f-accb-a4f151e6d50b)# 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
+## SHREE LEKHA.S(212223110052) 
+## 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
